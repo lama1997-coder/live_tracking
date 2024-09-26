@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "280376114025",
+    "firebase_url": "https://livetracking-c3e03-default-rtdb.firebaseio.com",
+    "project_id": "livetracking-c3e03",
+    "storage_bucket": "livetracking-c3e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280376114025:android:7de117e6d2d7f7e5485bf8",
+        "android_client_info": {
+          "package_name": "com.example.live_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSNxLFEpUVSKZDYQndBumIA5YfEOv5U_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
